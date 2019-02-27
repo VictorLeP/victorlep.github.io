@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Victor Le Pochat"
 title_separator          : "-"
 name                     : &name "Victor Le Pochat"
-description              : &description "personal description"
+description              : &description "Web security researcher"
 url                      : https://lepoch.at # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VictorLeP/victorlep.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Victor Le Pochat"
   avatar           : "le_me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in web security"
   location         : "Leuven, Belgium"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=85m1UpkAAAAJ"
