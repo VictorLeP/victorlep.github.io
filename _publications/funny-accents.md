@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Funny Accents: Exploring Genuine Interest in Internationalized Domain Names"
+authors: "Victor Le Pochat, Tom Van Goethem, Wouter Joosen"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/funny-accents
+excerpt: 'This paper explores Internationalized Domain Names with 'genuine interest;: domains for brands or phrases that contain accented letters.'
+date: 2019-03-27
+venue: '20th Passive and Active Measurement Conference'
+venue_short: 'PAM'
+paperurl: 'https://lepoch.at/files/funny-accents-pam19.pdf'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
