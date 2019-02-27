@@ -38,8 +38,9 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
-    {% if page.authors %}
-        <p>{{ page.authors }}</p>
+    {% if post.authors %}
+        {% assign authors_list = post.authors | split: "; " %}    
+            <p>{% for author in authors_list %}{{ author | split: ", " | reverse | join: " "}}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
     {% endif %}
 
         {% if post.collection == 'teaching' %}
@@ -62,7 +63,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p><a href=" {{ post.paperurl }} ">Download</a></p>
     {% endif %}
 
   </article>
