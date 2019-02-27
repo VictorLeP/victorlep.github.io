@@ -45,7 +45,7 @@ layout: default
         {% endif %}
         
         {% if page.authors %}
-            <p>{% for author in authors_list}{{ author | split: ", " | reverse | join: " "}}{% endfor %}</p>
+            <p>{% for author in authors_list %}{{ author | split: ", " | reverse | join: " "}}, {% endfor %}</p>
         {% endif %}
 
         {% if page.collection == 'teaching' %}
