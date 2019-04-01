@@ -7,5 +7,6 @@ excerpt: 'This extended abstract sets out the challenges of integrating visual a
 date: 2018-03-26
 venue: '19th Passive and Active Measurement Conference'
 venue_short: 'PAM'
-paperurl: 'https://lepoch.at/files/visual-analytics-pam18.pdf'
+paperurl: '/files/visual-analytics-pam18.pdf'
+posterurl: '/files/visual-analytics-pam18-poster.pdf'
 ---

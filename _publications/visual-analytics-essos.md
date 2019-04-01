@@ -9,6 +9,8 @@ date: 2018-06-20
 venue: '10th International Symposium on Engineering Secure Software and Systems'
 venue_short: 'ESSoS'
 paperurl: 'https://lepoch.at/files/visual-analytics-essos18.pdf'
+slidesurl: '/files/visual-analytics-essos18-slides.pdf'
+posterurl: '/files/visual-analytics-essos18-poster.pdf'
 doi: '10.1007/978-3-319-94496-8_10'
 bibtex: |
  @inproceedings{LePochat2018essos,

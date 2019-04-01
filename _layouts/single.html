@@ -51,7 +51,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p><i>Published in {{ page.venue }} ({{ page.venue_short }} {{ page.date | default: "1900-01-01" | date: "%Y" }})</i></p>
+          <p><i>Presented at {{ page.venue }} ({{ page.venue_short }} {{ page.date | default: "1900-01-01" | date: "%Y" }})</i></p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -60,14 +60,30 @@ layout: default
             <p>{{page.abstract}}</p>
         {% endif %}
 
+        {% if page.paperurl or page.slidesurl or page.posterurl %}
+            <p>
+        {% endif %}
         {% if page.paperurl %}
-           <p> <a href="{{ page.paperurl }}">Download</a></p>
+           <b><a href="{{ page.paperurl }}">Download paper</a></b>
         {% endif %}        
+        {% if page.slidesurl %}
+           <a href="{{ page.slidesurl }}">Download slides</a>
+        {% endif %}        
+        {% if page.posterurl %}
+           <a href="{{ page.posterurl }}">Download poster</a>
+        {% endif %}        
+        {% if page.paperurl or page.slidesurl or page.posterurl %}
+            <p>
+        {% endif %}
 
         {% if false and page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif false and page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
+        {% endif %}
+
+        {% if page.dataset %}
+            <p>Dataset: <a href="{{ page.dataset }}">{{page.dataset}}</a></p>
         {% endif %}
 
         {% if page.doi %}
