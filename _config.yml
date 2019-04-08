@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Victor Le Pochat"
   avatar           : "le_me.jpg"
-  bio              : "PhD student in web security"
+  bio              : "PhD student in web security" #  at [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://www.kuleuven.be/)
   location         : "Leuven, Belgium"
-  employer         :
+  employer         : "imec-DistriNet, KU Leuven"
   googlescholar    : "https://scholar.google.com/citations?user=85m1UpkAAAAJ"
   email            : "victor.lepochat@cs.kuleuven.be"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "victor-le-pochat/"
   orcid            : "https://orcid.org/0000-0003-2297-8328"
   pinterest        :
   soundcloud       :
@@ -173,16 +173,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

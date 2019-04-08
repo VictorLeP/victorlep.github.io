@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Science, Engineering: Computer Science (Secure Software)
+  * KU Leuven, Leuven, Belgium, 2015-2017
+  * Summa cum laude (GPA: 3.90)
+* Bachelor of Science, Engineering: Computer Science/Electrical Engineering
+  * KU Leuven, Leuven, Belgium, 2012-2015
+  * Magna cum laude (GPA: 3.20)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhD student, September 2017-
+  * imec-DistriNet, KU Leuven, Leuven, Belgium
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Grants
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Research Foundation – Flanders, October 2018-: individual PhD fellowship, four years (21% success rate).
+* Erasmus+ Staff Mobility for Training, March-April 2019: research visit to prof. Maciej Korczyński at Grenoble Alps University, two months.
+* 2nd SecHuman Summer School, September 2018: full grant.
+* 8th Network Traffic Measurement and Analysis PhD School, June 2018: full grant.
+
+Miscellaneous
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [CVE-2018-4429](https://nvd.nist.gov/vuln/detail/CVE-2018-4429): I found a phishing vulnerability in iOS (up to [12.1.1](https://support.apple.com/en-us/HT209340)) as part of my ['Funny Accents' paper](/publications/funny-accents).
