@@ -60,7 +60,7 @@ layout: default
             <p>{{page.abstract}}</p>
         {% endif %}
 
-        {% if page.paperurl or page.slidesurl or page.posterurl %}
+        {% if page.paperurl or page.slidesurl or page.videourl or page.posterurl %}
             <p>
         {% endif %}
         {% if page.paperurl %}
@@ -69,11 +69,14 @@ layout: default
         {% if page.slidesurl %}
            <a href="{{ page.slidesurl }}">Download slides</a>
         {% endif %}        
+        {% if page.videourl %}
+           <a href="{{ page.videourl }}">Watch presentation</a>
+        {% endif %}
         {% if page.posterurl %}
            <a href="{{ page.posterurl }}">Download poster</a>
-        {% endif %}        
-        {% if page.paperurl or page.slidesurl or page.posterurl %}
-            <p>
+        {% endif %}       
+        {% if page.paperurl or page.slidesurl or page.videourl or page.posterurl %}
+            </p>
         {% endif %}
 
         {% if false and page.citation and page.paperurl %}

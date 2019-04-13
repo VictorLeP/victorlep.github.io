@@ -10,6 +10,7 @@ venue: '26th Annual Network and Distributed System Security Symposium'
 venue_short: 'NDSS'
 paperurl: '/files/tranco-ndss19.pdf'
 slidesurl: '/files/tranco-ndss19-slides.pdf'
+videourl: 'https://www.youtube.com/watch?v=uY4Q8iIhiy4'
 doi: '10.14722/ndss.2019.23386'
 bibtex: |
     @inproceedings{LePochat2019tranco,
