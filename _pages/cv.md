@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Master of Science, Engineering: Computer Science (Secure Software)
-  * KU Leuven, Leuven, Belgium, 2015-2017
-  * Summa cum laude (GPA: 3.90)
-* Bachelor of Science, Engineering: Computer Science/Electrical Engineering
-  * KU Leuven, Leuven, Belgium, 2012-2015
-  * Magna cum laude (GPA: 3.20)
-
 Work experience
 ======
 * PhD student, September 2017-
@@ -35,6 +26,15 @@ Grants
 * Erasmus+ Staff Mobility for Training, March-April 2019: research visit to prof. Maciej Korczyński at Grenoble Alps University, two months.
 * 2nd SecHuman Summer School, September 2018: full grant.
 * 8th Network Traffic Measurement and Analysis PhD School, June 2018: full grant.
+
+Education
+======
+* Master of Science, Engineering: Computer Science (Secure Software)
+  * KU Leuven, Leuven, Belgium, 2015-2017
+  * Summa cum laude (GPA: 3.90)
+* Bachelor of Science, Engineering: Computer Science/Electrical Engineering
+  * KU Leuven, Leuven, Belgium, 2012-2015
+  * Magna cum laude (GPA: 3.20)
 
 Miscellaneous
 ======
