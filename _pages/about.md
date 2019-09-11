@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in the area of web security, under the supervision of prof. Wouter Joosen and [Tom Van Goethem](https://tom.vg). My interests lie in the exploration of web ecosystems, and in web security research metholodogy, both analyzing and improving current methods. I hold a PhD fellowship of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/).
+Welcome! I am a PhD student in the area of web security at the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Wouter Joosen and [Tom Van Goethem](https://tom.vg/). My interests lie in the exploration of web ecosystems, and in web security research metholodogy, both analyzing and improving current methods. I hold a PhD fellowship of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/).
 
 You can take a look at my [publications](/publications). 
 
