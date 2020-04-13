@@ -15,16 +15,9 @@ bibtex: |
  author = {Van Goethem, Tom and Le Pochat, Victor and Joosen, Wouter},
  title = {Mobile Friendly or Attacker Friendly?: A Large-scale Security Evaluation of Mobile-first Websites},
  booktitle = {Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security},
- series = {AsiaCCS '19},
+ series = {AsiaCCS 2019},
  year = {2019},
- isbn = {978-1-4503-6752-3},
- location = {Auckland, New Zealand},
  pages = {206--213},
- numpages = {8},
- url = {http://doi.acm.org/10.1145/3321705.3329855},
  doi = {10.1145/3321705.3329855},
- acmid = {3329855},
- publisher = {ACM},
- address = {New York, NY, USA},
  }
 ---
