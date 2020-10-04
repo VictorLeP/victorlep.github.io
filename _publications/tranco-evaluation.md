@@ -12,13 +12,11 @@ paperurl: '/files/tranco-evaluation-cset19.pdf'
 slidesurl: '/files/tranco-evaluation-cset19-slides.pdf'
 bibtex: |
  @inproceedings {LePochat2019TrancoEvaluation,
- author = {{Le Pochat}, Victor and {Van Goethem,} Tom and Joosen, Wouter},
+ author = {{Le Pochat}, Victor and {Van Goethem}, Tom and Joosen, Wouter},
  title = {Evaluating the Long-term Effects of Parameters on the Characteristics of the {Tranco} Top Sites Ranking},
  booktitle = {12th {USENIX} Workshop on Cyber Security Experimentation and Test},
  series = {CSET 2019},
  year = {2019},
  url = {https://www.usenix.org/conference/cset19/presentation/lepochat},
- publisher = {{USENIX} Association},
- month = aug,
  }
 ---

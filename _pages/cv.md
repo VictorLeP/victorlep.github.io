@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * PhD student, September 2017-
-  * imec-DistriNet, KU Leuven, Leuven, Belgium
+  * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
 
 Publications
 ======
@@ -20,11 +20,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+International mobility
+======
+* March-April 2019: research visit to prof. [Maciej Korczyński](http://mkorczynski.com/) at Grenoble Alps University, a.o. for collaboration on the Avalanche project, two months.
+
 Grants
 ======
-* Research Foundation – Flanders, October 2018-: individual PhD fellowship, four years (21% success rate).
+* [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
 * 3rd SecHuman Summer School, June 2019: full grant.
-* Erasmus+ Staff Mobility for Training, March-April 2019: full grant for a research visit to prof. [Maciej Korczyński](http://mkorczynski.com/) at Grenoble Alps University, two months.
+* Erasmus+ Staff Mobility for Training, March-April 2019: full grant for a research visit to Grenoble Alps University.
 * 2nd SecHuman Summer School, September 2018: full grant.
 * 8th Network Traffic Measurement and Analysis PhD School, June 2018: full grant.
 

@@ -12,6 +12,7 @@ venue: '27th Annual Network and Distributed System Security Symposium'
 venue_short: 'NDSS'
 paperurl: '/files/avalanche-ndss20.pdf'
 slidesurl: '/files/avalanche-ndss20-slides.pdf'
+videourl: 'https://www.youtube.com/watch?v=VmjjsmDtUSY'
 doi: '10.14722/ndss.2020.24161'
 bibtex: |
     @inproceedings{LePochat2020avalanche,
