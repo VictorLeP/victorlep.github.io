@@ -9,6 +9,8 @@ date: 2020-10-27
 venue: '2020 Internet Measurement Conference'
 venue_short: 'IMC'
 paperurl: '/files/domain-classification-imc20.pdf'
+slidesurl: '/files/domain-classification-imc20-slides.pdf'
+videourl: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3419394.3423660&file=imc2020-457-long.mp4&download=true'
 doi: '10.1145/3419394.3423660'
 bibtex: |
     @inproceedings{Vallina2020domainclassification,

@@ -27,8 +27,9 @@ International mobility
 Grants
 ======
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
+* Google Cloud research credits, November 2020: $1000.
 * 3rd SecHuman Summer School, June 2019: full grant.
-* Erasmus+ Staff Mobility for Training, March-April 2019: full grant for a research visit to Grenoble Alps University.
+* Erasmus+ Staff Mobility for Training, March-April 2019: full grant (€1500) for a research visit to Grenoble Alps University.
 * 2nd SecHuman Summer School, September 2018: full grant.
 * 8th Network Traffic Measurement and Analysis PhD School, June 2018: full grant.
 
