@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* PhD student, September 2017-
+* PhD student, September 2017-_(tentative: October 2022)_
   * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
 
 Publications
@@ -23,6 +23,8 @@ Publications
 International mobility
 ======
 * March-April 2019: research visit to prof. [Maciej Korczyński](http://mkorczynski.com/) at Grenoble Alps University, a.o. for collaboration on the Avalanche project, two months.
+* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, IEEE S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020.
+* Participation in summer schools: TMA PhD school 2018, 2nd SecHuman Summer School 2018, 3rd SecHuman Summer School 2019.
 
 Grants
 ======
