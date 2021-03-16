@@ -22,9 +22,13 @@ Publications
 
 International mobility
 ======
-* March-April 2019: research visit to prof. [Maciej Korczyński](http://mkorczynski.com/) at Grenoble Alps University, a.o. for collaboration on the Avalanche project, two months.
-* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, IEEE S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020.
+* March-April 2019: research visit to prof. [Maciej Korczyński](http://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), a.o. for collaboration on the [Avalanche project](/publications/avalanche), two months.
+* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, IEEE S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020, NDSS 2021.
 * Participation in summer schools: TMA PhD school 2018, 2nd SecHuman Summer School 2018, 3rd SecHuman Summer School 2019.
+
+Service
+======
+* PC member for [WTMC 2021](https://wtmc.info/).
 
 Grants
 ======
