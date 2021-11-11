@@ -13,3 +13,5 @@ Welcome! I am a PhD student in the area of web security at the [imec-DistriNet](
 You can take a look at my [publications](/publications). 
 
 You might also be interested in the [Tranco ranking](https://tranco-list.eu/), which we propose as a more suitable replacement for the Alexa top 1 million list, as this list is very unstable and can easily be manipulated.
+
+<small>My first name is "Victor", my last name is "Le Pochat", two words as is customary for Breton surnames.</small>

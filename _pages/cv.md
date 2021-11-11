@@ -20,22 +20,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Talks
+======
+* "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation": [NDSS 2019](https://www.youtube.com/watch?v=uY4Q8iIhiy4), [Ad Blocker Dev Summit 2019](https://adblockerdevsummit.com/impressions/2019), guest lecture in "Web Security Seminar" course at University of New Orleans.
+* "A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints": [NDSS 2020](https://www.youtube.com/watch?v=VmjjsmDtUSY), [OWASP Chapters All Day 2020](https://youtu.be/H7xH3YIhMcM?t=2100).
+* "Exploring (domain abuse for) deceptive advertising": talk at CISPA WebSec reading group, October 2021.
+
 International mobility
 ======
-* March-April 2019: research visit to prof. [Maciej Korczyński](http://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), a.o. for collaboration on the [Avalanche project](/publications/avalanche), two months.
-* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, IEEE S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020.
+* March-April 2019: research visit to prof. [Maciej Korczyński](https://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), a.o. for collaboration on the [Avalanche project](/publications/avalanche), two months.
+* October 2021-January 2022: research visit to prof. [Damon McCoy](https://damonmccoy.com/) at [New York University, Tandon School of Engineering](https://engineering.nyu.edu/), four months.
+* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, IEEE S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020, EuroS&P 2021 (SecWeb 2021).
 * Participation in summer schools: TMA PhD school 2018, 2nd SecHuman Summer School 2018, 3rd SecHuman Summer School 2019.
 
 Service
 ======
-* PC member for [WTMC 2021](https://wtmc.info/).
+* PC member for [WTMC 2021](https://wtmc.info/), [SecWeb 2021](https://secweb.work/), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html).
 
 Grants
 ======
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
-* Google Cloud research credits, November 2020: $1000.
+* Research Foundation – Flanders, October-December 2021: grant (€4290 + travel) for a long stay abroad at New York University.
+* Google Cloud, November 2020: research credits ($1000).
 * 3rd SecHuman Summer School, June 2019: full grant.
-* Erasmus+ Staff Mobility for Training, March-April 2019: full grant (€1500) for a research visit to Grenoble Alps University.
+* Erasmus+ Staff Mobility for Training, March-April 2019: full grant (€1500 + travel) for a research visit to Grenoble Alps University.
 * 2nd SecHuman Summer School, September 2018: full grant.
 * 8th Network Traffic Measurement and Analysis PhD School, June 2018: full grant.
 
