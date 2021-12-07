@@ -57,15 +57,13 @@ layout: default
           <!--<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>-->
         {% endif %}
         
-        {% if page.abstract %}
-            <p>{{page.abstract}}</p>
-        {% endif %}
+
 
         {% if page.paperurl or page.articleurl or page.slidesurl or page.videourl or page.posterurl %}
             <p>
         {% endif %}
         {% if page.paperurl %}
-           <b><a href="{{ page.paperurl }}">Download paper</a></b>
+           <b class="page__lead"><a href="{{ page.paperurl }}">Download paper</a></b>
         {% endif %}        
         {% if page.articleurl %}
            <b><a href="{{ page.articleurl }}">Read article</a></b>
@@ -83,6 +81,10 @@ layout: default
             </p>
         {% endif %}
 
+        {% if page.abstract %}
+            <p>{{page.abstract}}</p>
+        {% endif %}
+        
         {% if false and page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif false and page.citation %}
@@ -98,8 +100,8 @@ layout: default
         {% endif %}
 
         {% if page.bibtex %}
-          <p>BibTeX:</p>
-          <p><small style="font-family: monospace;">{{ page.bibtex | newline_to_br }}</small></p>
+          <p  class="small">BibTeX:</p>
+          <p class="small"><small style="font-family: monospace;">{{ page.bibtex | newline_to_br }}</small></p>
 
         {% endif %}
     
@@ -120,7 +122,7 @@ layout: default
 
       {% if false and page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
+      {% if false %} {% include post_pagination.html %} {% endif %}
     </div>
 
     {% if site.comments.provider and page.comments %}
