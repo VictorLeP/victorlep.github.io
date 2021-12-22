@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* PhD student, September 2017-_(tentative: October 2022)_
+* PhD student, September 2017-_(tentative: September 2022)_
   * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
 
 Publications
@@ -22,9 +22,10 @@ Publications
 
 Talks
 ======
-* "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation": [NDSS 2019](https://www.youtube.com/watch?v=uY4Q8iIhiy4), [Ad Blocker Dev Summit 2019](https://adblockerdevsummit.com/impressions/2019), guest lecture in "Web Security Seminar" course at University of New Orleans.
-* "A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints": [NDSS 2020](https://www.youtube.com/watch?v=VmjjsmDtUSY), [OWASP Chapters All Day 2020](https://youtu.be/H7xH3YIhMcM?t=2100).
+* "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation": [NDSS 2019](https://www.youtube.com/watch?v=uY4Q8iIhiy4); [Ad Blocker Dev Summit 2019](https://adblockerdevsummit.com/impressions/2019); guest lecture in "Web Security Seminar" course at University of New Orleans, December 2020.
+* "A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints": [NDSS 2020](https://www.youtube.com/watch?v=VmjjsmDtUSY); [OWASP Chapters All Day 2020](https://youtu.be/H7xH3YIhMcM?t=2100).
 * "Exploring (domain abuse for) deceptive advertising": talk at CISPA WebSec reading group, October 2021.
+* "An Audit of Facebook's Political Ad Policy Enforcement": [CIF Seminar](https://www.youtube.com/watch?v=Q1fYaEJEdJg) ([Q&A](https://www.youtube.com/watch?v=GQnZglkIna4)), 16 December 2021; panel "Regulating Big Tech was never so urgent" organized by MEP Tom Vandenkendelaere, 14 December 2021
 
 International mobility
 ======
@@ -43,7 +44,7 @@ Grants
 * Research Foundation – Flanders, October-December 2021: grant (€4290 + travel) for a long stay abroad at New York University.
 * Google Cloud, November 2020: research credits ($1000).
 * 3rd SecHuman Summer School, June 2019: full grant.
-* Erasmus+ Staff Mobility for Training, March-April 2019: full grant (€1500 + travel) for a research visit to Grenoble Alps University.
+* Erasmus+ Staff Mobility for Training, March-April 2019: full grant (€1500 + travel) for a visit to Grenoble Alps University.
 * 2nd SecHuman Summer School, September 2018: full grant.
 * 8th Network Traffic Measurement and Analysis PhD School, June 2018: full grant.
 
