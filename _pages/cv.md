@@ -36,7 +36,7 @@ International mobility
 
 Service
 ======
-* PC member for [WTMC 2021](https://wtmc.info/), [SecWeb 2021](https://secweb.work/), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/).
+* PC member for [WTMC 2021](https://wtmc.info/), [SecWeb 2021](https://secweb.work/), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/program-committee.html).
 
 Grants
 ======
