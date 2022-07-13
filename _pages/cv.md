@@ -22,7 +22,7 @@ Publications
 
 Talks
 ======
-* "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation": [NDSS 2019](https://www.youtube.com/watch?v=uY4Q8iIhiy4); [Ad Blocker Dev Summit 2019](https://adblockerdevsummit.com/impressions/2019); guest lecture in "Web Security Seminar" course of prof. Phani Vadrevu at University of New Orleans, December 2020.
+* "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation": [NDSS 2019](https://www.youtube.com/watch?v=uY4Q8iIhiy4); [Ad Blocker Dev Summit 2019](https://adblockerdevsummit.com/impressions/2019); guest lecture in "Web Security Seminar" course of prof. Phani Vadrevu at University of New Orleans, December 2020; ["Identifying Benign Websites Is About to Get Harder: The Demise of the Alexa Top Million"](https://www.ultimatewindowssecurity.com/webinars/register.aspx?id=3690) webinar for [Ultimate IT Security](https://www.ultimatewindowssecurity.com/), April 2022.
 * "A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints": [NDSS 2020](https://www.youtube.com/watch?v=VmjjsmDtUSY); [OWASP Chapters All Day 2020](https://youtu.be/H7xH3YIhMcM?t=2100).
 * "Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services": [IMC 2020](https://dl.acm.org/doi/10.1145/3419394.3423660#sec-supp).
 * "Exploring (domain abuse for) deceptive advertising": talk at CISPA WebSec reading group, October 2021.
