@@ -39,10 +39,12 @@ International mobility
 Service
 ======
 * PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html).
+* Representative on the [Departmental Council](https://spub.icts.kuleuven.be/sap/public/bsp/sap/z_raden_organen/index.htm?objid=53209205) of the Department of Computer Science at KU Leuven (2020-2024).
 
 Grants
 ======
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
+* Research Foundation – Flanders, August 2022: travel grant to attend USENIX Security 2022.
 * Erasmus+ Staff Mobility for Training, April 2022: full grant (€1843) for a visit to Grenoble Alps University.
 * Research Foundation – Flanders, October-December 2021: grant (€4290 + travel) for a long stay abroad at New York University.
 * Google Cloud, November 2020: research credits ($1000).
