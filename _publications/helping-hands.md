@@ -1,6 +1,6 @@
 ---
 title: "Helping hands: Measuring the impact of a large threat intelligence sharing community"
-authors: "Bouwman, Xander; Le Pochat, Victor; Foremski, Pawel; Van Goethem, Tom; Gañán, Carlos H.; Moura, Giovane C. M.; Joosen, Wouter; van Eeten, Michel"
+authors: "Bouwman, Xander; Le Pochat, Victor; Foremski, Pawel; Van Goethem, Tom; Gañán, Carlos H.; Moura, Giovane C. M.; Tajalizadehkhoob, Samaneh; Joosen, Wouter; van Eeten, Michel"
 collection: publications
 permalink: /publication/helping-hands
 excerpt: 'In this paper, we track a volunteer security information sharing community to understand whether collaboration at scale leads to better coverage and whether making threat data freely available improves the ability of defenders to act.'
@@ -11,7 +11,7 @@ venue_short: 'USENIX Security'
 paperurl: '/files/helping-hands-usenix22.pdf'
 bibtex: |
     @inproceedings{Bouwman2022HelpingHands,
-     author = "Bouwman, Xander and {Le Pochat}, Victor and Foremski, Pawel and {Van Goethem}, Tom and Gañán, {Carlos H.} and Moura, {Giovane C. M.} and Joosen, Wouter and {van Eeten}, Michel",
+     author = "Bouwman, Xander and {Le Pochat}, Victor and Foremski, Pawel and {Van Goethem}, Tom and Gañán, {Carlos H.} and Moura, {Giovane C. M.} and Tajalizadehkhoob, Samaneh and Joosen, Wouter and {van Eeten}, Michel",
      title = "Helping hands: Measuring the impact of a large threat intelligence sharing community",
      booktitle = {Proceedings of the 31st USENIX Security Symposium},
      series = {USENIX Security '22},
