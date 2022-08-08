@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in the area of web security at the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Wouter Joosen and [Tom Van Goethem](https://tom.vg/). My interests lie in the exploration of web ecosystems, and in web security research methodology, both analyzing and improving current methods. I hold a PhD fellowship of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/).
 
-You can take a look at my [publications](/publications). 
 
-You might also be interested in the [Tranco ranking](https://tranco-list.eu/), which we propose as a more suitable replacement for the Alexa top 1 million list, as this list is very unstable and can easily be manipulated.
+Welcome! I am a PhD student in the area of web security at the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Wouter Joosen and [Tom Van Goethem](https://tom.vg/), on a PhD fellowship of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/).
+
+My interests lie in the exploration of web ecosystems, and in web security and privacy research methodology, both analyzing and improving current methods. I maintain [Tranco](https://tranco-list.eu/), a research-oriented top sites ranking.
+
+You can take a look at my [publications](/publications) or my [CV](/cv). 
 
 <small>My first name is "Victor", my last name is "Le Pochat", two words as is customary for Breton surnames.</small>
