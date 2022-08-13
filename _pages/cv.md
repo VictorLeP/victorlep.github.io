@@ -33,7 +33,7 @@ International mobility
 * March-April 2019: research visit to prof. [Maciej Korczyński](https://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), a.o. for collaboration on the [Avalanche project](/publications/avalanche), two months.
 * October 2021-January 2022: research visit to prof. [Damon McCoy](https://damonmccoy.com/) at [New York University, Tandon School of Engineering](https://engineering.nyu.edu/), four months.
 * April 2022: research visit to prof. [Maciej Korczyński](https://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), two weeks.
-* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, IEEE S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020, EuroS&P 2021 (SecWeb 2021), IEEE S&P 2022.
+* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020, EuroS&P 2021 (SecWeb 2021), S&P 2022, USENIX Security 2022.
 * Participation in summer schools: TMA PhD school 2018, 2nd SecHuman Summer School 2018, 3rd SecHuman Summer School 2019.
 
 Service
