@@ -14,13 +14,13 @@ posterurl: '/files/visual-analytics-essos18-poster.pdf'
 doi: '10.1007/978-3-319-94496-8_10'
 bibtex: |
  @inproceedings{LePochat2018essos,
- author="Le Pochat, Victor and Van Goethem, Tom and Joosen, Wouter",
- title="Idea: Visual Analytics for Web Security",
- booktitle="10th International Symposium on Engineering Secure Software and Systems",
- year="2018",
- series="ESSoS 2018"
- publisher="Springer International Publishing",
- pages="124--132",
+    author = {Le Pochat, Victor and Van Goethem, Tom and Joosen, Wouter},
+    title = {Idea: Visual Analytics for Web Security},
+    booktitle = {10th International Symposium on Engineering Secure Software and Systems},
+    year = {2018},
+    series = {ESSoS 2018},
+    pages = {124--132},
+    doi = {10.1007/978-3-319-94496-8_10}
  }
 
 ---

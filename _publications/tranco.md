@@ -14,11 +14,11 @@ videourl: 'https://www.youtube.com/watch?v=uY4Q8iIhiy4'
 doi: '10.14722/ndss.2019.23386'
 bibtex: |
     @inproceedings{LePochat2019tranco,
-     author = "{Le Pochat}, Victor and {Van Goethem}, Tom and Tajalizadehkhoob, Samaneh and Korczy\'{n}ski, Maciej and Joosen, Wouter",
-     title = "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation",
-     booktitle = {Proceedings of the 26th Annual Network and Distributed System Security Symposium},
-     series = {NDSS 2019},
+     author = {Le Pochat, Victor and Van Goethem, Tom and Tajalizadehkhoob, Samaneh and Korczyński, Maciej and Joosen, Wouter},
+     title = {Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation},
+     booktitle = {26th Annual Network and Distributed System Security Symposium},
+     series = {NDSS '19},
      year = 2019,
-     doi = {10.14722/ndss.2019.23386},
+     doi = {10.14722/ndss.2019.23386}
     }
 ---

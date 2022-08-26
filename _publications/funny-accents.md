@@ -16,10 +16,10 @@ bibtex: |
  @inproceedings{LePochat2019funnyaccents,
  author = "{Le Pochat}, Victor and {Van Goethem}, Tom and Joosen, Wouter",
  title = "Funny Accents: Exploring Genuine Interest in Internationalized Domain Names",
- booktitle = {Proceedings of the 20th Passive and Active Measurement Conference},
- series = {PAM 2019},
+ booktitle = {20th Passive and Active Measurement Conference},
+ series = {PAM '19},
  year = 2019,
- publisher = {Springer},
- doi = {10.1007/978-3-030-15986-3_12},
+ pages = {178--194},
+ doi = {10.1007/978-3-030-15986-3_12}
  }
 ---

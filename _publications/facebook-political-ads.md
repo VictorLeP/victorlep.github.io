@@ -12,10 +12,11 @@ venue_short: 'USENIX Security'
 paperurl: '/files/facebook-political-ads-usenix22.pdf'
 bibtex: |
     @inproceedings{LePochat2022FacebookPoliticalAds,
-     author = "{Le Pochat}, Victor and Edelson, Laura and Van Goethem, Tom and Joosen, Wouter and McCoy, Damon and Lauinger, Tobias",
-     title = "An Audit of Facebook's Political Ad Policy Enforcement",
-     booktitle = {Proceedings of the 31st USENIX Security Symposium},
-     series = {USENIX Security 2022},
-     year = 2022,
+     author = {Le Pochat, Victor and Edelson, Laura and Van Goethem, Tom and Joosen, Wouter and McCoy, Damon and Lauinger, Tobias},
+     title = {An Audit of Facebook's Political Ad Policy Enforcement},
+     booktitle = {31st USENIX Security Symposium},
+     series = {USENIX Security '22},
+     pages = {607--624},
+     year = 2022
     }
 ---
