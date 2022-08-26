@@ -14,11 +14,12 @@ videourl: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3419394.34
 doi: '10.1145/3419394.3423660'
 bibtex: |
     @inproceedings{Vallina2020domainclassification,
-     author = "Vallina, Pelayo and {Le Pochat}, Victor and Feal, Álvaro and Paraschiv, Marius and Gamba, Julien and Burke, Tim and Hohlfeld, Oliver and Tapiador, Juan and Vallina-Rodriguez, Narseo",
-     title = "Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services",
-     booktitle = {Proceedings of the 2020 Internet Measurement Conference},
+     author = {Vallina, Pelayo and Le Pochat, Victor and Feal, Álvaro and Paraschiv, Marius and Gamba, Julien and Burke, Tim and Hohlfeld, Oliver and Tapiador, Juan and Vallina-Rodriguez, Narseo},
+     title = {Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services},
+     booktitle = {2020 Internet Measurement Conference},
      series = {IMC 2020},
      year = 2020,
-     doi = {10.1145/3419394.3423660},
+     pages = {598--618},
+     doi = {10.1145/3419394.3423660}
     }
 ---

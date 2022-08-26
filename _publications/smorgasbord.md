@@ -14,10 +14,10 @@ slidesurl: '/files/smorgasbord-wtmc19-slides.pdf'
 doi: '10.1109/SPW.2019.00043'
 bibtex: |
     @inproceedings{LePochat2019smorgasbord,
-     author = "{Le Pochat}, Victor and {Van Goethem}, Tom and Joosen, Wouter",
-     title = "A Smörgåsbord of Typos: Exploring International Keyboard Layout Typosquatting",
-     booktitle = {Proceedings of the 2019 IEEE Security and Privacy Workshops},
-     series = {SPW 2019},
+     author = {Le Pochat, Victor and Van Goethem, Tom and Joosen, Wouter},
+     title = {A Smörgåsbord of Typos: Exploring International Keyboard Layout Typosquatting},
+     booktitle = {2019 IEEE Security and Privacy Workshops},
+     series = {SPW '19},
      year = 2019,
      doi = {10.1109/SPW.2019.00043},
      pages = {187--192},
