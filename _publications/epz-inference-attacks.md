@@ -4,7 +4,7 @@ authors: "Dhondt, Karel; Le Pochat, Victor; Voulimeneas, Alexios; Joosen, Wouter
 collection: publications
 permalink: /publication/epz-inference-attacks
 excerpt: "We show that implementations of endpoint privacy zones by fitness tracking social networks remain vulnerable to inference attacks 
-	that reveal the location protect by those zones. Our attack leverages distance information leaked in activity metadata, street grid data, and the locations of the entry points into the EPZ."
+	that reveal the sensitive location that those zones should protect."
 abstract: "Fitness tracking social networks such as Strava allow users to record sports
 	activities and share them publicly. Sharing encourages peer interaction but also
 	constitutes a risk, because an activity's start or finish may inadvertently reveal privacy-sensitive
