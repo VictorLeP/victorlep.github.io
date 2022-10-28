@@ -1,5 +1,5 @@
 ---
-title: "A Run a Day Won’t Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks"
+title: "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks"
 authors: "Dhondt, Karel; Le Pochat, Victor; Voulimeneas, Alexios; Joosen, Wouter; Volckaert, Stijn"
 collection: publications
 permalink: /publication/epz-inference-attacks
@@ -30,7 +30,7 @@ paperurl: '/files/epz-inference-attacks-ccs22.pdf'
 bibtex: |
     @inproceedings{Dhondt2022EPZInferenceAttacks,
      author = {Dhondt, Karel and Le Pochat, Victor and Voulimeneas, Alexios and Joosen, Wouter and Volckaert, Stijn},
-     title = {A Run a Day Won’t Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks},
+     title = {A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks},
      booktitle = {2022 ACM Conference on Computer and Communications Security},
      series = {CCS '22},
      year = 2022,
