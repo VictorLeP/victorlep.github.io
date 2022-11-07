@@ -17,7 +17,7 @@ bibtex: |
      booktitle = {21st Workshop on Privacy in the Electronic Society},
      series = {WPES '22},
      year = 2022,
-     pages = {XXX--XXX},
+     pages = {181--196},
      doi = {10.1145/3559613.3563200}
     }
 ---

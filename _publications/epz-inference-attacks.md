@@ -34,7 +34,7 @@ bibtex: |
      booktitle = {2022 ACM Conference on Computer and Communications Security},
      series = {CCS '22},
      year = 2022,
-     pages = {XXX--XXX},
+     pages = {801--814},
      doi = {10.1145/3548606.3560616}
     }
 ---
