@@ -57,7 +57,7 @@
         {% elsif post.collection == 'publications' and post.venue %}
           <p><i>Presented at {{ post.venue }} ({{post.venue_short}} {{ post.date | default: "1900-01-01" | date: "%Y" }})</i>
             {% if post.award %}
-            <br/><b>{{ post.award }}</b>
+            <br/><i>{{ post.award }}</i>
             {% endif %}  </p>
         {% elsif post.date %}
         <p><i>Published in {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></p>
