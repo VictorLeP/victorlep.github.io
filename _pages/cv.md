@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* PhD student, September 2017-_(tentative: fall 2022)_
+* PhD student, September 2017-_(tentative: early 2023)_
   * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
 
 Publications
@@ -26,14 +26,14 @@ Talks
 * "A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints": [NDSS 2020](https://www.youtube.com/watch?v=VmjjsmDtUSY); [OWASP Chapters All Day 2020](https://youtu.be/H7xH3YIhMcM?t=2100).
 * "Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services": [IMC 2020](https://dl.acm.org/doi/10.1145/3419394.3423660#sec-supp).
 * "Exploring (domain abuse for) deceptive advertising": talk at CISPA WebSec reading group, October 2021.
-* "An Audit of Facebook's Political Ad Policy Enforcement": [CIF Seminar](https://www.youtube.com/watch?v=Q1fYaEJEdJg) ([Q&A](https://www.youtube.com/watch?v=GQnZglkIna4)), 16 December 2021; panel "Regulating Big Tech was never so urgent" organized by MEP Tom Vandenkendelaere, 14 December 2021; seminar for the [SLIDE team](https://www.liglab.fr/en/research/research-teams/slide) of prof. [Oana Goga](https://lig-membres.imag.fr/gogao/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), April 2022.
+* "An Audit of Facebook's Political Ad Policy Enforcement": [CIF Seminar](https://www.youtube.com/watch?v=Q1fYaEJEdJg) ([Q&A](https://www.youtube.com/watch?v=GQnZglkIna4)), 16 December 2021; panel "Regulating Big Tech was never so urgent" organized by MEP Tom Vandenkendelaere, 14 December 2021; seminar for the [SLIDE team](https://www.liglab.fr/en/research/research-teams/slide) of prof. [Oana Goga](https://lig-membres.imag.fr/gogao/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), April 2022; [Ad Filtering Dev Summit 2022](https://adfilteringdevsummit.com/), October 2022; TU Delft TPM seminar, October 2022; CIF review, November 2022.
 
 International mobility
 ======
 * March-April 2019: research visit to prof. [Maciej Korczyński](https://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), a.o. for collaboration on the [Avalanche project](/publications/avalanche), two months.
 * October 2021-January 2022: research visit to prof. [Damon McCoy](https://damonmccoy.com/) at [New York University, Tandon School of Engineering](https://engineering.nyu.edu/), four months.
 * April 2022: research visit to prof. [Maciej Korczyński](https://mkorczynski.com/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), two weeks.
-* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020, EuroS&P 2021 (SecWeb 2021), S&P 2022, USENIX Security 2022.
+* Participation in conferences (workshops): PAM 2018, ESSoS 2018, NDSS 2019, PAM 2019, S&P 2019 (WTMC 2019), USENIX Security 2019 (CSET 2019), IMC 2019, NDSS 2020, EuroS&P 2020 (WTMC 2020), IMC 2020, EuroS&P 2021 (SecWeb 2021), S&P 2022, USENIX Security 2022, IMC 2022, CCS 2022 (WPES 2022), ACSAC 2022.
 * Participation in summer schools: TMA PhD school 2018, 2nd SecHuman Summer School 2018, 3rd SecHuman Summer School 2019.
 
 Service
