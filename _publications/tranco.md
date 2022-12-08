@@ -8,6 +8,7 @@ abstract: 'In order to evaluate the prevalence of security and privacy practices
 date: 2019-02-25
 venue: '26th Annual Network and Distributed System Security Symposium'
 venue_short: 'NDSS'
+award: 'ACSAC 2022 Cybersecurity Artifacts Competition Impactful Dataset Award'
 paperurl: '/files/tranco-ndss19.pdf'
 slidesurl: '/files/tranco-ndss19-slides.pdf'
 videourl: 'https://www.youtube.com/watch?v=uY4Q8iIhiy4'
