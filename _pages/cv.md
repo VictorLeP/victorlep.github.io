@@ -27,6 +27,7 @@ Talks
 * "Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services": [IMC 2020](https://dl.acm.org/doi/10.1145/3419394.3423660#sec-supp).
 * "Exploring (domain abuse for) deceptive advertising": talk at CISPA WebSec reading group, October 2021.
 * "An Audit of Facebook's Political Ad Policy Enforcement": [CIF Seminar](https://www.youtube.com/watch?v=Q1fYaEJEdJg) ([Q&A](https://www.youtube.com/watch?v=GQnZglkIna4)), 16 December 2021; panel "Regulating Big Tech was never so urgent" organized by MEP Tom Vandenkendelaere, 14 December 2021; seminar for the [SLIDE team](https://www.liglab.fr/en/research/research-teams/slide) of prof. [Oana Goga](https://lig-membres.imag.fr/gogao/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), April 2022; [Ad Filtering Dev Summit 2022](https://adfilteringdevsummit.com/), October 2022; TU Delft TPM seminar, October 2022; CIF review, November 2022.
+* "Sound data sets and methods for web security research": Stanford Security Lunch, February 2023; CISPA WebSec Reading Group, February 2023.
 
 International mobility
 ======
