@@ -25,6 +25,7 @@ abstract: "Fitness tracking social networks such as Strava allow users to record
 date: 2022-11-08
 venue: '2022 ACM Conference on Computer and Communications Security'
 venue_short: 'CCS'
+award: '2022 CNIL-Inria Privacy Protection Award Runner-up'
 doi: 10.1145/3548606.3560616
 paperurl: '/files/epz-inference-attacks-ccs22.pdf'
 bibtex: |
