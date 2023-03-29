@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* PhD student, September 2017-_(tentative: early 2023)_
+* PhD student, September 2017-_(tentative: May/June 2023)_
   * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
 
 Publications
@@ -28,6 +28,7 @@ Talks
 * "Exploring (domain abuse for) deceptive advertising": talk at CISPA WebSec reading group, October 2021.
 * "An Audit of Facebook's Political Ad Policy Enforcement": [CIF Seminar](https://www.youtube.com/watch?v=Q1fYaEJEdJg) ([Q&A](https://www.youtube.com/watch?v=GQnZglkIna4)), 16 December 2021; panel "Regulating Big Tech was never so urgent" organized by MEP Tom Vandenkendelaere, 14 December 2021; seminar for the [SLIDE team](https://www.liglab.fr/en/research/research-teams/slide) of prof. [Oana Goga](https://lig-membres.imag.fr/gogao/) at [Grenoble Alps University](https://www.univ-grenoble-alpes.fr/), April 2022; [Ad Filtering Dev Summit 2022](https://adfilteringdevsummit.com/), October 2022; TU Delft TPM seminar, October 2022; CIF review, November 2022.
 * "Sound data sets and methods for web security research": Stanford Security Lunch, February 2023; CISPA WebSec Reading Group, February 2023.
+* "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks": [Black Hat Asia](https://www.blackhat.com/asia-23/briefings/schedule/index.html#a-run-a-day-wont-keep-the-hacker-away-inference-attacks-on-endpoint-privacy-zones-in-fitness-tracking-social-networks-30134) (with Karel Dhondt), May 2023.
 
 International mobility
 ======
@@ -39,12 +40,13 @@ International mobility
 
 Service
 ======
-* PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/).
+* PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/), [SecWeb 2023](https://secweb.work/2023.html).
 * Representative on the [Departmental Council](https://spub.icts.kuleuven.be/sap/public/bsp/sap/z_raden_organen/index.htm?objid=53209205) of the Department of Computer Science at KU Leuven (2020-2024).
 
 Grants
 ======
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
+* ACM Internet Measurement Conference, October 2022: full travel grant.
 * Research Foundation – Flanders, August 2022: travel grant to attend USENIX Security 2022.
 * Erasmus+ Staff Mobility for Training, April 2022: full grant (€1843) for a visit to Grenoble Alps University.
 * Research Foundation – Flanders, October-December 2021: grant (€4290 + travel) for a long stay abroad at New York University.
