@@ -11,8 +11,8 @@ redirect_from:
 
 Work experience
 ======
-* PhD student, September 2017-_(tentative: May/June 2023)_
-  * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
+* [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
+  * PhD researcher, September 2017-May 2023
 
 Publications
 ======
