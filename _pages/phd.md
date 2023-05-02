@@ -9,14 +9,15 @@ author_profile: false
 
 _[Nederlandstalige versie](/dr)_
 
-I am happy to invite you to the public defense of my PhD thesis _"Sound data sets and methods for web security research"_.
+<big>I am happy to invite you to the public defense of my PhD thesis _"Sound data sets and methods for web security research"_.</big>
 
 Date and time
 ======
 The defense will take place on **Wednesday 31 May 2023**.
 
-The _formal_ defense (presentation and Q&A) starts at **17:00** sharp, and will take around 2 hours. \
-It is followed by an _informal_ reception at around 19:00. _You're welcome to join only for the reception._
+The formal defense (presentation and Q&A) starts at **17:00** sharp, and will take around 1.5 hours. \
+It is followed by a short break and the official proclamation (at around 18:30), and an informal reception at around 19:00. \
+_You're welcome to join only for the proclamation and/or reception._
 
 Registration
 ======
@@ -24,7 +25,7 @@ Please register your attendance using [this form](https://forms.office.com/Pages
 
 Online livestream
 ======
-The link to follow my defense online [will be available the day of the defense](#).
+To follow my defense online, [join this Microsoft Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWU1ZWM0ODAtZjEzZi00MjQ1LTlkYjYtNWRkMzhlZTQ2ZWZi%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%220aa61546-11be-423b-abc4-c8c3f5f782bb%22%7d).
 
 
 Getting there
@@ -36,7 +37,7 @@ Getting there
 ### Route description
 * *By public transport*: 
     * take the train to Leuven station; connect onto bus lines 2 (direction _Heverlee Campus_, take it all the way to the final stop) or 616 (direction _Zaventem Luchthaven_, get off at the _Celestijnenlaan_ stop), or rent a Blue-Bike at the station.
-    * alternatively, take the train to Heverlee station; connect once again onto buses 2 or 616, or [enjoy a 20 minute walk passing by the Arenberg castle](TODO route).
+    * alternatively, take the train to Heverlee station; connect once again onto buses 2 or 616, or [enjoy a 20 minute walk passing by the Arenberg castle](https://www.google.be/maps/dir/Heverlee/Departement+computerwetenschappen,+Celestijnenlaan+200A,+Heverlee+3001+Leuven,+Belgi%C3%AB/@50.8640288,4.6810517,16.3z/data=!4m14!4m13!1m5!1m1!1s0x47c1613bbc7b5f77:0xe504902161f961c3!2m2!1d4.6952845!2d50.8624768!1m5!1m1!1s0x47c16110fd300347:0x46c648b1747e02ae!2m2!1d4.6787596!2d50.8641528!3e2).
 * *By bike/on foot*: use your favorite route planner to reach the address mentioned above.
 * *By car*: Take exit 15 (_Leuven_) on the E314 highway. Continue onto the N264 and turn right at the 3rd traffic light. Then, turn right at the next traffic light to park next to the building, or continue towards [the _De Molen_ parking](https://goo.gl/maps/a3v8JGS8bYpybfGv7), which you can enter with the code `1889#` (don't forget the `#` and to use the code to exit as well).
 * An alternative route description is available on [the site of the department](https://wms.cs.kuleuven.be/cs/english/about/directions).
