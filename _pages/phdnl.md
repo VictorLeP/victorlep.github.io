@@ -16,7 +16,7 @@ Datum en tijd
 De verdediging vindt plaats op **woensdag 31 mei 2023**.
 
 De formele verdediging (presentatie en vragen) begint stipt om **17:00**, en zal ongeveer anderhalf uur duren. De presentatie zal in het Engels gegeven worden. \
-Deze wordt gevolgd door een korte pauze en de officiële proclamatie (rond 18:30) en een _informele_ receptie rond 19:00. \
+Deze wordt gevolgd door een korte pauze en de officiële proclamatie (rond 18:30) en een informele receptie rond 19:00. \
 _U mag ook enkel voor de proclamatie en/of receptie aansluiten._
 
 Registratie
