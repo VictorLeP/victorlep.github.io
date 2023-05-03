@@ -31,8 +31,8 @@ To follow my defense online, [join this Microsoft Teams meeting](https://teams.m
 Getting there
 ======
 ### Location
-* Auditorium Erik Duval, Department of Computer Science
-* Celestijnenlaan 200A, 3001 Heverlee ([OpenStreetMap](https://www.openstreetmap.org/node/2705226213), [Google Maps](https://goo.gl/maps/8aFYJR1yiazS9QeNA))
+* Auditorium Erik Duval (00.225), Department of Computer Science
+* Celestijnenlaan 200A, 3001 Heverlee ([OpenStreetMap](https://www.openstreetmap.org/node/2705226213), [Google Maps](https://goo.gl/maps/xyKxuwfGNA4hoDzx7?coh=178571&entry=tt))
 
 ### Route description
 * *By public transport*: 

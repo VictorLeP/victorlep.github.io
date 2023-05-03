@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<big>Ik nodig u graag uit voor de openbare verdediging van mijn doctoraatsthesis _"Deugdelijke datasets en methoden voor webbeveiligingsonderzoek"_.</big>
+<big>Ik nodig u graag uit voor de openbare verdediging van mijn doctoraatsthesis _"Degelijke datasets en methoden voor webbeveiligingsonderzoek"_.</big>
 
 Datum en tijd
 ======
@@ -25,14 +25,14 @@ Gelieve uw aanwezigheid te registreren via [dit formulier](https://forms.office.
 
 Online livestream
 ======
-Om mijn verdediging online te volgen, [sluit aan bij deze Microsoft Teams-meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWU1ZWM0ODAtZjEzZi00MjQ1LTlkYjYtNWRkMzhlZTQ2ZWZi%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%220aa61546-11be-423b-abc4-c8c3f5f782bb%22%7d).
+Om mijn verdediging online te volgen, [kan u aansluiten bij deze Microsoft Teams-meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWU1ZWM0ODAtZjEzZi00MjQ1LTlkYjYtNWRkMzhlZTQ2ZWZi%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%220aa61546-11be-423b-abc4-c8c3f5f782bb%22%7d).
 
 
 Bereikbaarheid
 ======
 ### Locatie
-* Auditorium Erik Duval, Departement Computerwetenschappen
-* Celestijnenlaan 200A, 3001 Heverlee ([OpenStreetMap](https://www.openstreetmap.org/node/2705226213), [Google Maps](https://goo.gl/maps/8aFYJR1yiazS9QeNA))
+* Auditorium Erik Duval (00.225), Departement Computerwetenschappen
+* Celestijnenlaan 200A, 3001 Heverlee ([OpenStreetMap](https://www.openstreetmap.org/node/2705226213), [Google Maps](https://goo.gl/maps/xyKxuwfGNA4hoDzx7?coh=178571&entry=tt))
 
 ### Routebeschrijving
 * *Met het openbaar vervoer*: 
