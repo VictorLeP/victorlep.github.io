@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
-  * PhD researcher, September 2017-May 2023
+  * PhD researcher, September 2017-[May 2023](/phd)
 
 Publications
 ======
