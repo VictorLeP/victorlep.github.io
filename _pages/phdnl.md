@@ -21,7 +21,7 @@ _U mag ook enkel voor de proclamatie en/of receptie aansluiten._
 
 Registratie
 ======
-Gelieve uw aanwezigheid te registreren via [dit formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=m1hzOUCetU6ADrC2OD0WIUYVpgq-ETtCq8TIw_X3grtUODFOQVlMRkJSNEREMVlGNzU0STNMRzhBWC4u).
+Gelieve uw aanwezigheid te registreren via [dit formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=m1hzOUCetU6ADrC2OD0WIUYVpgq-ETtCq8TIw_X3grtUODFOQVlMRkJSNEREMVlGNzU0STNMRzhBWC4u) tegen 24 mei.
 
 Online livestream
 ======

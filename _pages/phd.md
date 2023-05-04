@@ -21,7 +21,7 @@ _You're welcome to join only for the proclamation and/or reception._
 
 Registration
 ======
-Please register your attendance using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=m1hzOUCetU6ADrC2OD0WIUYVpgq-ETtCq8TIw_X3grtUODFOQVlMRkJSNEREMVlGNzU0STNMRzhBWC4u).
+Please register your attendance using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=m1hzOUCetU6ADrC2OD0WIUYVpgq-ETtCq8TIw_X3grtUODFOQVlMRkJSNEREMVlGNzU0STNMRzhBWC4u) by 24 May.
 
 Online livestream
 ======
