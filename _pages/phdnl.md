@@ -19,6 +19,8 @@ De formele verdediging (presentatie en vragen) begint stipt om **17:00**, en zal
 Deze wordt gevolgd door een korte pauze en de officiële proclamatie (rond 18:30) en een informele receptie rond 19:00. \
 _U mag ook enkel voor de proclamatie en/of receptie aansluiten._
 
+De verdediging wordt voorafgegaan door drie seminaries rond cybersecurity, het programma hiervoor vindt u op [deze pagina](/phd).
+
 Registratie
 ======
 Gelieve uw aanwezigheid te registreren via [dit formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=m1hzOUCetU6ADrC2OD0WIUYVpgq-ETtCq8TIw_X3grtUODFOQVlMRkJSNEREMVlGNzU0STNMRzhBWC4u) tegen 24 mei.

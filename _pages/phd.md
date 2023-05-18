@@ -7,26 +7,34 @@ author_profile: false
 
 {% include base_path %}
 
-_[Nederlandstalige versie](/dr)_
-
 <big>I am happy to invite you to the public defense of my PhD thesis _"Sound data sets and methods for web security research"_.</big>
 
-Date and time
+Schedule
 ======
-The defense will take place on **Wednesday 31 May 2023**.
+My defense will take place on **Wednesday 31 May 2023**.
 
-The formal defense (presentation and Q&A) starts at **17:00** sharp, and will take around 1.5 hours. \
-It is followed by a short break and the official proclamation (at around 18:30), and an informal reception at around 19:00. \
+* At **17:00** sharp, the formal defense (presentation and Q&A) starts, taking around 1.5 hours, after which there is the official proclamation and an informal reception.\
 _You're welcome to join only for the proclamation and/or reception._
+
+The defense will be preceded by three seminars on _"Strengthening Data-Driven Cybersecurity"_, starting at 15:00.
+
+The entire day's program is:
+* 14:40: Welcome & Registration
+* 15:00: Keynote: "Scans, Sticks and Carrots: Collecting Data to Improve Cybersecurity" (Prof. Michel van Eeten, TU Delft)
+* 15:40: "From Data to Detection: Challenges in Data Collection for ML-based Network Intrusion Detection Systems" (Gints Engelen, KU Leuven)
+* 16:00: "Machine learning in cybersecurity: a case study in virus and malware detection" (Davy Preuveneers, KU Leuven)
+* 16:20: Break & Refreshments
+* 17:00: Public PhD Defense: Sound Data Sets and Methods for Web Security Research
+* 17:45: Q&A and discussion, and deliberation by the jury
+* 18:30: Networking reception
 
 Registration
 ======
-Please register your attendance using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=m1hzOUCetU6ADrC2OD0WIUYVpgq-ETtCq8TIw_X3grtUODFOQVlMRkJSNEREMVlGNzU0STNMRzhBWC4u) by 24 May.
+Please register your attendance to any part of the day's proceedings using [this form](https://www.eventbrite.be/e/strengthening-data-driven-cybersecurity-tickets-635315314207) by 24 May.
 
 Online livestream
 ======
 To follow my defense online, [join this Microsoft Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWU1ZWM0ODAtZjEzZi00MjQ1LTlkYjYtNWRkMzhlZTQ2ZWZi%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%220aa61546-11be-423b-abc4-c8c3f5f782bb%22%7d).
-
 
 Getting there
 ======
@@ -42,7 +50,7 @@ Getting there
 * *By car*: Take exit 15 (_Leuven_) on the E314 highway. Continue onto the N264 and turn right at the 3rd traffic light. Then, turn right at the next traffic light to park next to the building, or continue towards [the _De Molen_ parking](https://goo.gl/maps/a3v8JGS8bYpybfGv7), which you can enter with the code `1889#` (don't forget the `#` and to use the code to exit as well).
 * An alternative route description is available on [the site of the department](https://wms.cs.kuleuven.be/cs/english/about/directions).
 
-Abstract
+Thesis abstract
 ========
 <small>Sound research practices are the foundation of valid, reliable, and trustworthy research results. 
 In the context of web security research, the importance of measurements that yield the empirical real-world data for analyzing and improving security on the web emphasizes the need to use sound data sets and methods that allow these measurements to be accurate, comprehensive, representative, and transparent.
