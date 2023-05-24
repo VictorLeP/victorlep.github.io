@@ -30,7 +30,7 @@ The entire day's program is:
 
 Registration
 ======
-Please register your attendance to any part of the day's proceedings using [this form](https://www.eventbrite.be/e/strengthening-data-driven-cybersecurity-tickets-635315314207) by 24 May.
+Please register your attendance to any part of the day's proceedings using [this form](https://www.eventbrite.be/e/strengthening-data-driven-cybersecurity-tickets-635315314207).
 
 Online livestream
 ======
