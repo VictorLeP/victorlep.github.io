@@ -80,4 +80,4 @@ Further work in this domain helps to enable more complete and thorough insights 
 
 Thesis text
 ======
-will be available closer to the defense.
+[Official text (PDF)](/files/phd-thesis.pdf) - Preface (will be available the day of the defense)
