@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Welcome! I am a PhD student in the area of web security at the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Wouter Joosen and [Tom Van Goethem](https://tom.vg/), on a PhD fellowship of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/).
+Welcome! I am a researcher in the area of web security and privacy at the [imec-DistriNet](https://distrinet.cs.kuleuven.be/) research group of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Wouter Joosen.
 
 My interests lie in the exploration of web ecosystems, and in web security and privacy research methodology, both analyzing and improving current methods. I maintain [Tranco](https://tranco-list.eu/), a research-oriented top sites ranking.
 
