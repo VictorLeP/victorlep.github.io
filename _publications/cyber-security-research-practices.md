@@ -11,7 +11,7 @@ abstract: "Sound research practices are the foundation of valid, reliable, and t
   We also compare these meta-research findings with experiences from another academic community, in this case the Internet measurement community, to observe areas where academic communities can learn from each other.
   Our work is meant as an encouragement for the research community to continue its self-reflective practices, and we hope that it can contribute to these ongoing efforts to improve cyber security research."
 date: 2023-08-07
-venue: '2023 Cyber Security Experimentation and Test Workshop'
+venue: '16th Cyber Security Experimentation and Test Workshop'
 venue_short: 'CSET'
 paperurl: '/files/cyber-security-research-practices-cset23.pdf'
 doi: 10.1145/3607505.3607523
@@ -19,7 +19,7 @@ bibtex: |
     @inproceedings{LePochat2023CyberSecurityResearchPractices,
      author = {Le Pochat, Victor and Joosen, Wouter},
      title = {Analyzing Cyber Security Research Practices through a Meta-Research Framework},
-     booktitle = {2023 Cyber Security Experimentation and Test Workshop},
+     booktitle = {16th Cyber Security Experimentation and Test Workshop},
      series = {CSET '23},
      year = 2023,
      doi = {10.1145/3607505.3607523}
