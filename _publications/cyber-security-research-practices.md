@@ -14,6 +14,7 @@ date: 2023-08-07
 venue: '16th Cyber Security Experimentation and Test Workshop'
 venue_short: 'CSET'
 paperurl: '/files/cyber-security-research-practices-cset23.pdf'
+slidesurl: '/files/cyber-security-research-practices-cset23-slides.pdf'
 doi: 10.1145/3607505.3607523
 bibtex: |
     @inproceedings{LePochat2023CyberSecurityResearchPractices,
