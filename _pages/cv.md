@@ -44,7 +44,7 @@ International mobility
 Service
 ======
 * PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/), [SecWeb 2023](https://secweb.work/2023.html).
-* Representative on the [Departmental Council](https://spub.icts.kuleuven.be/sap/public/bsp/sap/z_raden_organen/index.htm?objid=53209205) of the Department of Computer Science at KU Leuven (2020-2024).
+* Representative on the [Departmental Council](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209205)  (2020-2024) and [Departmental Board](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209206) (2022-2024) of the Department of Computer Science at KU Leuven.
 
 Grants
 ======
