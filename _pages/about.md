@@ -16,4 +16,6 @@ My interests lie in the exploration of web ecosystems, and in web security and p
 
 You can take a look at my [publications](/publications) or my [CV](/cv). 
 
+I participate in [Stellar Vector](https://www.stellarvector.be/), the CTF team powered by DistriNet and KU Leuven. Join our events to hack and have fun!
+
 <small>My first name is "Victor", my last name is "Le Pochat", two words as is customary for Breton surnames.</small>
