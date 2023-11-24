@@ -23,6 +23,7 @@ bibtex: |
      booktitle = {16th Cyber Security Experimentation and Test Workshop},
      series = {CSET '23},
      year = 2023,
+     pages = {64--74},
      doi = {10.1145/3607505.3607523}
     }
 ---
