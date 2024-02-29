@@ -74,3 +74,4 @@ Education
 Miscellaneous
 ======
 * [CVE-2018-4429](https://nvd.nist.gov/vuln/detail/CVE-2018-4429): I found a phishing vulnerability in iOS (up to [12.1.1](https://support.apple.com/en-us/HT209340)) as part of my ['Funny Accents' paper](/publications/funny-accents).
+* I am part of the core team of [Stellar Vector](https://www.stellarvector.be/), the CTF team powered by DistriNet and KU Leuven. I contributed and presented a self-made OSINT challenge to the 2023 [CTF 101](https://www.stellarvector.be/events/2023-2024/ctf101) event (80 participants).
