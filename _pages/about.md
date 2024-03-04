@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! I am a postdoctoral researcher in the area of web security and privacy at the [DistriNet](https://distrinet.cs.kuleuven.be/) research unit of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Lieven Desmet and prof. Wouter Joosen.
 
-My interests lie in the exploration of web ecosystems, understanding how to detect and mitigate harmful online content, and in web security and privacy research methodology, both analyzing and improving current methods. I maintain [Tranco](https://tranco-list.eu/), a research-oriented top sites ranking.
+My research interests lie in the exploration of web ecosystems, understanding how to detect and mitigate harmful online content, and in web security and privacy research methodology, both analyzing and improving current methods. I maintain [Tranco](https://tranco-list.eu/), a research-oriented top sites ranking.
 
 You can take a look at my [publications](/publications) or my [CV](/cv). 
 
