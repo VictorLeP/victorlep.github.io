@@ -2,7 +2,7 @@
 title: "Analyzing Cyber Security Research Practices through a Meta-Research Framework"
 authors: "Le Pochat, Victor; Joosen, Wouter"
 collection: publications
-permalink: /publication/cyber-security-research-practices
+permalink: /publication/research-practices-cset
 excerpt: "We apply a framework for categorizing meta-research work that analyzes cyber security research practices, with the goal of gaining a better understanding on the research community's efforts to examine its own research practices."
 abstract: "Sound research practices are the foundation of valid, reliable, and trustworthy research results. 
   The discipline of meta-research critically evaluates research practices and proposes new methods to improve and refine the way in which research is conducted. 
@@ -13,8 +13,8 @@ abstract: "Sound research practices are the foundation of valid, reliable, and t
 date: 2023-08-07
 venue: '16th Cyber Security Experimentation and Test Workshop'
 venue_short: 'CSET'
-paperurl: '/files/cyber-security-research-practices-cset23.pdf'
-slidesurl: '/files/cyber-security-research-practices-cset23-slides.pdf'
+paperurl: '/files/research-practices-cset23.pdf'
+slidesurl: '/files/research-practices-cset23-slides.pdf'
 doi: 10.1145/3607505.3607523
 bibtex: |
     @inproceedings{LePochat2023CyberSecurityResearchPractices,
