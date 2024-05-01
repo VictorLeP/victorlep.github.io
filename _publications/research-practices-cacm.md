@@ -15,6 +15,10 @@ bibtex: |
      author = {Le Pochat, Victor},
      title = {Reflecting on Research Practices},
      journal = {Communications of the ACM},
+     volume = 67,
+     number = 5,
+     pages = {37--39},
+     month = 5,
      year = 2024,
      doi = {10.1145/3651965}
     }
