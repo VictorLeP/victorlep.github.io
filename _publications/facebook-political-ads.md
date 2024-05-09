@@ -11,6 +11,7 @@ venue: '31st USENIX Security Symposium'
 venue_short: 'USENIX Security'
 paperurl: '/files/facebook-political-ads-usenix22.pdf'
 slidesurl: '/files/facebook-political-ads-usenix22-slides.pdf'
+dataset: 'https://osf.io/7tw3e/'
 bibtex: |
     @inproceedings{LePochat2022FacebookPoliticalAds,
      author = {Le Pochat, Victor and Edelson, Laura and Van Goethem, Tom and Joosen, Wouter and McCoy, Damon and Lauinger, Tobias},

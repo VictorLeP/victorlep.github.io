@@ -14,6 +14,7 @@ paperurl: '/files/avalanche-ndss20.pdf'
 slidesurl: '/files/avalanche-ndss20-slides.pdf'
 videourl: 'https://www.youtube.com/watch?v=VmjjsmDtUSY'
 doi: '10.14722/ndss.2020.24161'
+dataset: 'https://github.com/DistriNet/avalanche-ndss2020'
 bibtex: |
     @inproceedings{LePochat2020avalanche,
      author = {Le Pochat, Victor and Van hamme, Tim and Maroofi, Sourena and Van Goethem, Tom and Preuveneers, Davy and Duda, Andrzej and Joosen, Wouter and Korczyński, Maciej",
