@@ -8,9 +8,10 @@ abstract: "'Top sites' rankings of the most popular domains are a core resource 
 date: 2024-05-23
 venue: '8th Network Traffic Measurement and Analysis Conference'
 venue_short: 'TMA'
+award: 'TMA 2024 Community Contribution Award'
 paperurl: '/files/domain-ranking-design-decisions-tma24.pdf'
 dataset: 'https://domain-ranking-design-decisions.distrinet-research.be/'
-# slidesurl: '/files/tbd-slides.pdf'
+slidesurl: '/files/domain-ranking-design-decisions-tma24-slides.pdf'
 # doi: 'tbd'
 bibtex: |
     @inproceedings{LePochat2024designdecisions,
