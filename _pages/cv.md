@@ -53,6 +53,7 @@ Service
 
 Grants
 ======
+* [Research Foundation – Flanders](https://www.fwo.be/en/results-outreach/announcement-of-results/269-new-postdoc-fellowships-awarded/), 2024-2027: individual junior postdoc fellowship, three years (180/1041 - 17.3% success rate).
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
 * ACM Internet Measurement Conference, October 2022: full travel grant.
 * Research Foundation – Flanders, August 2022: travel grant to attend USENIX Security 2022.
