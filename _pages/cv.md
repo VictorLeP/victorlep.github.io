@@ -31,6 +31,7 @@ Talks
 * "Sound data sets and methods for web security research": Stanford Security Lunch, February 2023; CISPA WebSec Reading Group, February 2023; PhD defense, May 2023.
 * "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks": [Black Hat Asia](https://www.blackhat.com/asia-23/briefings/schedule/index.html#a-run-a-day-wont-keep-the-hacker-away-inference-attacks-on-endpoint-privacy-zones-in-fitness-tracking-social-networks-30134) (with Karel Dhondt), May 2023.
 * "Empirical Web Security and Privacy": CISPA Helmholtz Center for Information Security, April 2024.
+* "Swipe Left for Identity Theft: An Analysis of User Data Privacy Risks on Location-based Dating Apps": [CNIL Privacy Research Day](https://www.cnil.fr/en/privacy-research-day-2024-topics-registration), June 2024; [Black Hat USA](https://www.blackhat.com/us-24/briefings/schedule/index.html#swipe-left-for-identity-theft-an-analysis-of-user-data-privacy-risks-on-location-based-dating-apps-39007), August 2024; USENIX Security, August 2024.
 
 International mobility
 ======
