@@ -1,2 +1,11 @@
 User-agent: *
 Disallow: /files/phd-thesis-preface.pdf
+
+User-agent: *
+Disallow: /files/deceptive-affiliate-marketing.pdf
+
+User-agent: *
+Disallow: /files/deceptive-affiliate-marketing-slides.pdf
+
+User-agent: *
+Disallow: /dam/
