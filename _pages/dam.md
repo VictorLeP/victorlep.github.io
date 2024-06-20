@@ -3,7 +3,6 @@ layout: archive
 title: "Deceptive Affiliate Marketing"
 sitemap: false
 permalink: /dam/
-author_profile: false
 ---
 
 {% include base_path %}
