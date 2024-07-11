@@ -12,13 +12,14 @@ award: 'TMA 2024 Community Contribution Award'
 paperurl: '/files/domain-ranking-design-decisions-tma24.pdf'
 dataset: 'https://domain-ranking-design-decisions.distrinet-research.be/'
 slidesurl: '/files/domain-ranking-design-decisions-tma24-slides.pdf'
-# doi: 'tbd'
+doi: '10.23919/TMA62044.2024.10559182'
 bibtex: |
     @inproceedings{LePochat2024designdecisions,
      author = {Le Pochat, Victor and Fernandez, Simon and Van Goethem, Tom and Tajalizadehkhoob, Samaneh and Desmet, Lieven and Duda, Andrzej and Joosen, Wouter and Korczyński, Maciej},
      title = {Evaluating the impact of design decisions on passive DNS-based domain rankings},
      booktitle = {8th Network Traffic Measurement and Analysis Conference},
      series = {TMA '24},
-     year = 2024
+     year = 2024,
+     doi = {10.23919/TMA62044.2024.10559182}
     }
 ---
