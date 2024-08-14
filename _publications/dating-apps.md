@@ -15,6 +15,8 @@ bibtex: |
      title = {Swipe Left for Identity Theft: An Analysis of User Data Privacy Risks on Location-based Dating Apps},
      booktitle = {33rd USENIX Security Symposium},
      series = {USENIX Security '24},
-     year = 2024
+     year = 2024,
+     pages = {5053--5070},
+     url = {https://www.usenix.org/conference/usenixsecurity24/presentation/dhondt}
     }
 ---
