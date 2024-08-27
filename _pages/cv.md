@@ -31,7 +31,7 @@ Talks
 * "Sound data sets and methods for web security research": Stanford Security Lunch, February 2023; CISPA WebSec Reading Group, February 2023; PhD defense, May 2023.
 * "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks": [Black Hat Asia](https://www.blackhat.com/asia-23/briefings/schedule/index.html#a-run-a-day-wont-keep-the-hacker-away-inference-attacks-on-endpoint-privacy-zones-in-fitness-tracking-social-networks-30134) (with Karel Dhondt), May 2023.
 * "Empirical Web Security and Privacy": CISPA Helmholtz Center for Information Security, April 2024; ["Seminar in CyberSecurity" course](https://onderwijsaanbod.kuleuven.be/2023/syllabi/e/H0Q23AE.htm) at KU Leuven, April 2024; Max Planck Institute for Informatics, July 2024.
-* "Swipe Left for Identity Theft: An Analysis of User Data Privacy Risks on Location-based Dating Apps": [CNIL Privacy Research Day](https://www.cnil.fr/en/privacy-research-day-2024-topics-registration), June 2024; [Black Hat USA](https://www.blackhat.com/us-24/briefings/schedule/index.html#swipe-left-for-identity-theft-an-analysis-of-user-data-privacy-risks-on-location-based-dating-apps-39007), August 2024; USENIX Security, August 2024.
+* "Swipe Left for Identity Theft: An Analysis of User Data Privacy Risks on Location-based Dating Apps": [CNIL Privacy Research Day](https://www.cnil.fr/en/privacy-research-day-2024-topics-registration), June 2024; [Black Hat USA](https://www.blackhat.com/us-24/briefings/schedule/index.html#swipe-left-for-identity-theft-an-analysis-of-user-data-privacy-risks-on-location-based-dating-apps-39007), August 2024 (99/1300 submissions accepted - 7.6% acceptance rate); USENIX Security, August 2024.
 
 International mobility
 ======
@@ -48,14 +48,15 @@ Service
 ======
 * Artifact Evaluation Publication Chair for [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts).
 * Publicity Chair for [CSET 2024](https://cset24.isi.edu/).
-* PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/), [SecWeb 2023](https://secweb.work/2023.html), [MADWeb 2024](https://madweb.work/), [SecWeb 2024](https://secweb.work/2024.html), [Web Conference 2024](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/).
-* Representative on the [Departmental Council](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209205)  (2020-2024) and [Departmental Board](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209206) (2022-2024) of the Department of Computer Science at KU Leuven.
+* PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/), [SecWeb 2023](https://secweb.work/2023.html), [MADWeb 2024](https://madweb.work/), [SecWeb 2024](https://secweb.work/2024.html), [Web Conference 2024](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/), [ISC 2024](https://isc24.cs.gmu.edu/committee/), [IMC 2024](https://conferences.sigcomm.org/imc/2024/committees/).
+* Representative on the [Departmental Council](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209205) (2020-2024) and [Departmental Board](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209206) (2022-2024) of the Department of Computer Science at KU Leuven.
 * Member of the PhD committee of Karel Dhondt (DistriNet, KU Leuven - Gent), 2024.
 
 Grants
 ======
 * [Research Foundation – Flanders](https://www.fwo.be/en/results-outreach/announcement-of-results/269-new-postdoc-fellowships-awarded/), 2024-2027: individual junior postdoc fellowship, three years (180/1041 - 17.3% success rate).
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
+* Research Foundation – Flanders, August 2024: travel grant to attend USENIX Security 2024.
 * ACM Internet Measurement Conference, October 2022: full travel grant.
 * Research Foundation – Flanders, August 2022: travel grant to attend USENIX Security 2022.
 * Erasmus+ Staff Mobility for Training, April 2022: full grant (€1843) for a visit to Grenoble Alps University.
