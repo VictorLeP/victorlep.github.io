@@ -18,4 +18,7 @@ You can take a look at my [publications](/publications) or my [CV](/cv).
 
 I participate in [Stellar Vector](https://www.stellarvector.be/), the CTF team powered by DistriNet and KU Leuven. Join our events to hack and have fun!
 
+At DistriNet, I am part of the Web Security and Privacy team with these awesome people:
+[Angelos Beitis](https://distrinet.cs.kuleuven.be/people/AngelosBeitis) - [Lieven Desmet](https://distrinet.cs.kuleuven.be/people/LievenDesmet) - [Yana Dimova](https://distrinet.cs.kuleuven.be/people/YanaDimova) - [Gertjan Franken](https://gjfr.dev/) - [Héloïse Gollier](https://distrinet.cs.kuleuven.be/people/HeloiseGollier) - [Wouter Joosen](https://distrinet.cs.kuleuven.be/people/WouterJoosen) - [Jeroen Robben](https://distrinet.cs.kuleuven.be/people/JeroenRobben) - [Vik Vanderlinden](https://vikvanderlinden.be/) - [Tom Van Goethem](https://tom.vg/) - [Mathy Vanhoef](https://mathyvanhoef.com/)
+
 <small>My first name is "Victor", my last name is "Le Pochat", two words as is customary for Breton surnames.</small>
