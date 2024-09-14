@@ -84,10 +84,10 @@ author:
   avatar           : "me_2023.jpg"
   bio              : "Web security and privacy researcher" #  at [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://www.kuleuven.be/)
   location         : "Leuven, Belgium"
-  employer         : "DistriNet, KU Leuven"
-  employer_profile : "https://distrinet.cs.kuleuven.be/people/VictorLePochat"
+  employer         : # "DistriNet, KU Leuven"
+  employer_profile : # "https://distrinet.cs.kuleuven.be/people/VictorLePochat"
   googlescholar    : "85m1UpkAAAAJ"
-  email            : "victor.lepochat@kuleuven.be"
+  email            : "victorlepochat.work@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
