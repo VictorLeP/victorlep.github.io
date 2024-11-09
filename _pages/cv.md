@@ -14,6 +14,8 @@ Work experience
 * [DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://kuleuven.be/), Leuven, Belgium
   * PhD researcher, September 2017-[May 2023](/phd)
   * Postdoctoral researcher, June 2023-September 2024
+* European Commission, DG CNECT, Brussels, Belgium
+  * Case handler, September 2024-
 
 Publications
 ======
