@@ -12,9 +12,11 @@ redirect_from:
 
 Welcome! 
 
-As an academic, I was a PhD and postdoctoral researcher in web security and privacy at the [DistriNet](https://distrinet.cs.kuleuven.be/) research unit of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Lieven Desmet and prof. Wouter Joosen.
+I am currently a case handler at [DG CNECT](https://commission.europa.eu/about/departments-and-executive-agencies/communications-networks-content-and-technology_en) in the European Commission, working on technology regulation and the enforcement of the [Digital Markets Act](https://digital-markets-act.ec.europa.eu/). 
 
-My research interests lie in exploring large web ecosystems, understanding how to detect and mitigate harmful online content, and both analyzing and improving current research methods. I developed [Tranco](https://tranco-list.eu/), a research-oriented top sites ranking.
+As an academic, I was a postdoctoral researcher in web security and privacy at the [DistriNet](https://distrinet.cs.kuleuven.be/) research unit of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Lieven Desmet and prof. Wouter Joosen.
+
+My research interests lie in monitoring the security and privacy of large web ecosystems, understanding how to detect and mitigate harmful online content, and both analyzing and improving current research methods. I developed [Tranco](https://tranco-list.eu/), a research-oriented top sites ranking.
 
 You can take a look at my academic [publications](/publications) or my [CV](/cv). 
 
