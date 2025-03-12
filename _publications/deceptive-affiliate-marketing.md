@@ -10,15 +10,16 @@ venue: '26th Passive and Active Measurement Conference'
 venue_short: 'PAM'
 paperurl: '/files/deceptive-affiliate-marketing-pam25.pdf'
 dataset: 'https://deceptive-affiliate-marketing.distrinet-research.be/'
-#slidesurl: '/files/deceptive-affiliate-marketing-pam25-slides.pdf'
+slidesurl: '/files/deceptive-affiliate-marketing-pam25-slides.pdf'
 doi: '10.1007/978-3-031-85960-1_17'
 bibtex: |
     @inproceedings{LePochat2025deceptiveaffiliatemarketing,
      author = {Le Pochat, Victor and Ballard, Cameron and Desmet, Lieven and Joosen, Wouter and McCoy, Damon and Lauinger, Tobias},
-     title = {Partnërka in Crime: Characterizing Deceptive Affiliate Marketing Offers},
+     title = {Partn{\"e}rka in Crime: Characterizing Deceptive Affiliate Marketing Offers},
      booktitle = {26th Passive and Active Measurement Conference},
      series = {PAM '25},
      year = 2025,
+     pages = {405--436},
      doi = {10.1007/978-3-031-85960-1_17}
     }
 ---
