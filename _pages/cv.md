@@ -36,6 +36,7 @@ Talks
 * "Swipe Left for Identity Theft: An Analysis of User Data Privacy Risks on Location-based Dating Apps": [CNIL Privacy Research Day](https://www.cnil.fr/en/privacy-research-day-2024-topics-registration), June 2024; [Black Hat USA](https://www.blackhat.com/us-24/briefings/schedule/index.html#swipe-left-for-identity-theft-an-analysis-of-user-data-privacy-risks-on-location-based-dating-apps-39007), August 2024 (99/1300 submissions accepted - 7.6% acceptance rate); USENIX Security, August 2024.
 * "Breaking tech monopolies in Europe: A fireside chat with the European Commission": [FOSDEM 2025](https://fosdem.org/2025/schedule/event/fosdem-2025-5432-breaking-tech-monopolies-in-europe-a-fireside-chat-with-the-european-commission/), February 2025
 * "Specification proceedings": [TAIEX Multi Country Workshops on the transposition of the EU Digital Markets Act (DMA)](https://webgate.ec.europa.eu/TMSWebRestrict/resources/js/app/#/library/detail/90004), February 2025
+* "Biting into the forbidden fruit: how the EU’s Digital Markets Act breaks open walled gardens": [Policy @ DEF CON 33](https://hackertracker.app/event/?conf=DEFCON33&event=62469), August 2025
 
 International mobility
 ======
