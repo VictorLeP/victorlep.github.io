@@ -37,6 +37,7 @@ Talks
 * "Breaking tech monopolies in Europe: A fireside chat with the European Commission": [FOSDEM 2025](https://fosdem.org/2025/schedule/event/fosdem-2025-5432-breaking-tech-monopolies-in-europe-a-fireside-chat-with-the-european-commission/), February 2025
 * "Specification proceedings": [TAIEX Multi Country Workshops on the transposition of the EU Digital Markets Act (DMA)](https://webgate.ec.europa.eu/TMSWebRestrict/resources/js/app/#/library/detail/90004), February 2025
 * "Biting into the forbidden fruit: how the EU’s Digital Markets Act breaks open walled gardens": [Policy @ DEF CON 33](https://hackertracker.app/event/?conf=DEFCON33&event=62469), August 2025
+* "How the Digital Markets Act unlocks opportunities with interoperability": [Web Summit 2025](https://websummit.com/sessions/lis25/1527adf3-4052-48f2-a821-087fe74cf7b5/how-the-digital-markets-act-unlocks-opportunities-with-interoperability-hosted-by-european-commission-dg-connect/), November 2025
 
 International mobility
 ======
