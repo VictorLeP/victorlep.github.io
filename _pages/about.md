@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! 
 
-I am currently a case handler at [DG CNECT](https://commission.europa.eu/about/departments-and-executive-agencies/communications-networks-content-and-technology_en) in the European Commission, working on technology regulation and the enforcement of the [Digital Markets Act](https://digital-markets-act.ec.europa.eu/). 
+I am currently a case handler and technologist at [DG Connect](https://commission.europa.eu/about/departments-and-executive-agencies/communications-networks-content-and-technology_en) in the European Commission, working on technology regulation and the enforcement of the [Digital Markets Act](https://digital-markets-act.ec.europa.eu/). 
 
 As an academic, I was a postdoctoral researcher in web security and privacy at the [DistriNet](https://distrinet.cs.kuleuven.be/) research unit of [KU Leuven](https://www.kuleuven.be/), under the supervision of prof. Lieven Desmet and prof. Wouter Joosen.
 
