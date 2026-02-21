@@ -38,6 +38,8 @@ Talks
 * "Specification proceedings": [TAIEX Multi Country Workshops on the transposition of the EU Digital Markets Act (DMA)](https://webgate.ec.europa.eu/TMSWebRestrict/resources/js/app/#/library/detail/90004), February 2025
 * "Biting into the forbidden fruit: how the EU’s Digital Markets Act breaks open walled gardens": [Policy @ DEF CON 33](https://hackertracker.app/event/?conf=DEFCON33&event=62469), August 2025
 * "How the Digital Markets Act unlocks opportunities with interoperability": [Web Summit 2025](https://websummit.com/sessions/lis25/1527adf3-4052-48f2-a821-087fe74cf7b5/how-the-digital-markets-act-unlocks-opportunities-with-interoperability-hosted-by-european-commission-dg-connect/), November 2025
+* "L'IA sous surveillance : traquer les biais et les atteintes aux droits": [Inria Alumni](https://www.inria-alumni.fr/fr/event/conference-exceptionnelle-l-ia-sous-surveillance-traquer-les-biais-et-les-atteintes-aux-droits/2025/12/10/78), December 2025
+* "Interoperability regulation in the EU: Opening iOS and Android for Free Software", [FOSDEM 2026](https://fosdem.org/2026/schedule/event/TQS7LM-interoperability-dma-apple-google/), January 2026
 
 International mobility
 ======
@@ -54,13 +56,13 @@ Service
 ======
 * Artifact Evaluation Publication Chair for [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts).
 * Publicity Chair for [CSET 2024](https://cset24.isi.edu/).
-* PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/index2022.html), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/), [SecWeb 2023](https://secweb.work/2023.html), [WTMC 2023](https://wtmc.info/index2023.html), [MADWeb 2024](https://madweb.work/), [SecWeb 2024](https://secweb.work/2024.html), [Web Conference 2024](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/), [WTMC 2024](https://wtmc.info/), [ISC 2024](https://isc24.cs.gmu.edu/committee/), [IMC 2024](https://conferences.sigcomm.org/imc/2024/committees/), [MADWeb 2025](https://madweb.work/).
+* PC member for [WTMC 2021](https://wtmc.info/index2021.html), [SecWeb 2021](https://secweb.work/2021.html), [S3 2021](https://people.vcu.edu/~barahoueipash/S3/committee.html), [MADWeb 2022](https://madweb.work/), [SecWeb 2022](https://secweb.work/2022.html), [WTMC 2022](https://wtmc.info/index2022.html), [CCS 2022](https://www.sigsac.org/ccs/CCS2022/organization/program-committee.html), [MADWeb 2023](https://madweb.work/), [SecWeb 2023](https://secweb.work/2023.html), [WTMC 2023](https://wtmc.info/index2023.html), [MADWeb 2024](https://madweb.work/), [SecWeb 2024](https://secweb.work/2024.html), [Web Conference 2024](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/), [WTMC 2024](https://wtmc.info/), [ISC 2024](https://isc24.cs.gmu.edu/committee/), [IMC 2024](https://conferences.sigcomm.org/imc/2024/committees/), [MADWeb 2025](https://madweb.work/), [WTMC 2025](https://wtmc.info), [MADWeb 2026](https://madweb.work/), [MetaCRiSP 2026](https://metacrisp.org/).
 * Representative on the [Departmental Council](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209205) (2020-2024) and [Departmental Board](https://webwsp.aps.kuleuven.be/esap/public/ui5_ui5/sap/zh_smst_raadpoc/index.html?tracker=53209206) (2022-2024) of the Department of Computer Science at KU Leuven.
 * Member of the PhD committee of Karel Dhondt (DistriNet, KU Leuven - Gent), 2024.
 
 Grants
 ======
-* [Research Foundation – Flanders](https://www.fwo.be/en/results-outreach/announcement-of-results/269-new-postdoc-fellowships-awarded/), 2024-2027: individual junior postdoc fellowship, three years (180/1041 - 17.3% success rate).
+* [Research Foundation – Flanders](https://www.fwo.be/en/results-outreach/announcement-of-results/269-new-postdoc-fellowships-awarded/), 2024-2027: individual junior postdoc fellowship, three years (180/1041 - 17.3% success rate), vacated for position at Europen Commission.
 * [Research Foundation – Flanders](https://www.fwo.be/), October 2018-2022: individual PhD fellowship, four years (21% success rate).
 * Research Foundation – Flanders, August 2024: travel grant to attend USENIX Security 2024.
 * ACM Internet Measurement Conference, October 2022: full travel grant.
@@ -87,4 +89,4 @@ Education
 Miscellaneous
 ======
 * [CVE-2018-4429](https://nvd.nist.gov/vuln/detail/CVE-2018-4429): I found a phishing vulnerability in iOS (up to [12.1.1](https://support.apple.com/en-us/HT209340)) as part of my ['Funny Accents' paper](/publications/funny-accents).
-* I am part of the core team of [Stellar Vector](https://www.stellarvector.be/), the CTF team powered by DistriNet and KU Leuven. I contributed and presented a self-made OSINT challenge to the 2023 [CTF 101](https://www.stellarvector.be/events/2023-2024/ctf101) event (80 participants).
+* I was part of the core team of [Stellar Vector](https://www.stellarvector.be/), the CTF team powered by DistriNet and KU Leuven. I contributed and presented a self-made OSINT challenge to the 2023 [CTF 101](https://www.stellarvector.be/events/2023-2024/ctf101) event (80 participants).
