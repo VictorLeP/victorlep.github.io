@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Victor Le Pochat"
 title_separator          : "-"
 name                     : &name "Victor Le Pochat"
-description              : &description "Web security and privacy researcher"
+description              : &description "Scientist, technologist"
 url                      : https://lepoch.at # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VictorLeP/victorlep.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Victor Le Pochat"
   avatar           : "me_2023.jpg"
-  bio              : "Web security and privacy researcher" #  at [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://www.kuleuven.be/)
+  bio              : "Scientist, technologist" #  at [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://www.kuleuven.be/)
   location         : "Leuven, Belgium"
   employer         : # "DistriNet, KU Leuven"
   employer_profile : # "https://distrinet.cs.kuleuven.be/people/VictorLePochat"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "VictorLePochat"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
