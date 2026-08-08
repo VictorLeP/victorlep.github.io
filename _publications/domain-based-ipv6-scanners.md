@@ -10,6 +10,7 @@ date: 2026-12-07
 venue: '22nd International Conference on emerging Networking EXperiments and Technologies'
 venue_short: 'CoNEXT'
 paperurl: '/files/domain-based-ipv6-scanners-conext26.pdf'
+doi: '10.1145/3830390'
 bibtex: |
     @article{kappes2026how,
      author = {Kappes, Sebastian and Steger, Lion and Le Pochat, Victor and Gasser, Oliver and Zirngibl, Johannes and Heinrich, Tiago},
@@ -23,6 +24,6 @@ bibtex: |
      month = sep,
      articleno = {35},
      numpages = {25},
-}
+    }
 
 ---
