@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Le Pochat"
-  avatar           : "victor-headshot-2026.jpg"
+  avatar           : "victor-headshot-2026.webp"
   bio              : "Scientist, technologist" #  at [imec-DistriNet](https://distrinet.cs.kuleuven.be/), [KU Leuven](https://www.kuleuven.be/)
   location         : "Leuven, Belgium"
   employer         : # "DistriNet, KU Leuven"
